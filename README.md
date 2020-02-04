@@ -10,4 +10,4 @@ What is it?
 
 Where can i play?
 
-http://thegamepb.epizy.com/
+~~http://thegamepb.epizy.com/~~ free hosting ended
